@@ -1,2 +1,2 @@
 # sun-calculator
-A SunShining Calculator App! (Coming Soon)
+A Simple SunShining Calculator App! (Coming Soon)
