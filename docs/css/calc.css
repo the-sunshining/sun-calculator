@@ -4,20 +4,24 @@ body {
 .calc{
   position:absolute;
   background-color:rgb(252, 249, 69) ;
+  min-width: 300px;
+  min-height: 350px;
   margin: 0px;
   top: 0px;
   bottom: 0px;
+  left: 0px;
+  right: 0px;
   
 }
 #disp{
   display:block;
-  height: 60px;
+  min-height: 60px;
   background-color:#000;
   margin:8px;
 }
 .calc button{
-  height:54px;
-  width:71px;
+  min-height:54px;
+  min-width:71px;
   background-color:rgb(250, 242, 128);
   margin : 0px;
 }
