@@ -1,20 +1,24 @@
+body {
+    padding: 0px;
+}
 .calc{
   position:absolute;
-  background-color:#DCDCDC ;
-  width:300px;
-  height:350px;
+  background-color:rgb(252, 249, 69) ;
+  margin: 0px;
+  top: 0px;
+  bottom: 0px;
   
 }
 #disp{
   display:block;
-  height:52px;
+  height: 60px;
   background-color:#000;
   margin:8px;
 }
 .calc button{
   height:54px;
   width:71px;
-  background-color:#81D4FA;
+  background-color:rgb(250, 242, 128);
   margin : 0px;
 }
 #ans{
